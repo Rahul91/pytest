@@ -1,0 +1,4 @@
+include *.py
+include githubpy
+include README
+include LISENCE
